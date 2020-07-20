@@ -1,0 +1,28 @@
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntitiesModel.exe.config
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntitiesModel.exe
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntitiesModel.pdb
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntityFramework.dll
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntityFramework.xml
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\obj\Debug\EntitiesModel.csprojAssemblyReference.cache
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\obj\Debug\EntitiesModel.csproj.CoreCompileInputs.cache
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\obj\Debug\EntitiesModel.csproj.CopyComplete
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\obj\Debug\EntitiesModel.exe
+D:\触动力线上项目\周边服务\back\HelperService\EntitiesModel\obj\Debug\EntitiesModel.pdb
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntitiesModel.exe.config
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntitiesModel.exe
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntitiesModel.pdb
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntityFramework.dll
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntityFramework.xml
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.csprojAssemblyReference.cache
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.csproj.CopyComplete
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.exe
+D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.pdb

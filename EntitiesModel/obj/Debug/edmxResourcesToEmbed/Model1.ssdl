@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="APeripheralServicesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AddShopCart">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ShopId" Type="varchar" MaxLength="100" />
+    <Property Name="Number" Type="int" />
+    <Property Name="Actual" Type="int" />
+    <Property Name="ASIN" Type="varchar" MaxLength="20" />
+    <Property Name="State" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="TotalPrice" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Images" Type="varchar" MaxLength="100" />
+    <Property Name="KeyWord" Type="varchar" MaxLength="500" />
+    <Property Name="Productlocation" Type="varchar" MaxLength="500" />
+    <Property Name="AddTimes" Type="datetime" />
+    <Property Name="Remarks" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="AroundUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="varchar" MaxLength="11" />
+    <Property Name="PassWord" Type="varchar" MaxLength="100" />
+    <Property Name="Enable" Type="int" />
+    <Property Name="CustomerNumber" Type="int" />
+    <Property Name="RegistrationTime" Type="datetime" />
+    <Property Name="LoginTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="AroundUserFinance">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="AccountBalance" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="AccumulatedIncome" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="AccumulatedExpenditure" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Remarks" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="AroundUserFinanceLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="BusinessNumber" Type="varchar" MaxLength="15" />
+    <Property Name="PaymentState" Type="int" />
+    <Property Name="TransactionType" Type="int" />
+    <Property Name="TransactionAmount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="TransactionTime" Type="datetime" />
+    <Property Name="Remarks" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="AsinKeyWord">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ASIN" Type="varchar" MaxLength="20" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="State" Type="int" />
+    <Property Name="AsinType" Type="varchar" MaxLength="100" />
+    <Property Name="BuyTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="BackUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="LoginName" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="100" />
+    <Property Name="Phone" Type="varchar" MaxLength="11" />
+    <Property Name="State" Type="int" />
+    <Property Name="Remarks" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="BackUserRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BackUserId" Type="int" />
+    <Property Name="RoleId" Type="int" />
+  </EntityType>
+  <EntityType Name="BadEvaluate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="ReviewLink" Type="varchar" MaxLength="250" />
+    <Property Name="State" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SubTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="BugQuery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ServiceName" Type="varchar" MaxLength="50" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="State" Type="int" />
+    <Property Name="SellerIdOrAsin" Type="varchar" MaxLength="50" />
+    <Property Name="RegisteredEmail" Type="varchar" MaxLength="50" />
+    <Property Name="SubTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CountryName" Type="varchar" MaxLength="20" />
+    <Property Name="CounteyShorthand" Type="varchar" MaxLength="10" />
+    <Property Name="State" Type="int" />
+  </EntityType>
+  <EntityType Name="Different">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="Type" Type="int" />
+    <Property Name="State" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="TotalPrice" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Link" Type="varchar" MaxLength="500" />
+    <Property Name="EstimateNumber" Type="int" />
+    <Property Name="ActualNumber" Type="int" />
+    <Property Name="BackNumber" Type="int" />
+    <Property Name="AddTimes" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DrawMoney">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="RemoveMoenyNumber" Type="varchar" MaxLength="20" />
+    <Property Name="State" Type="int" />
+    <Property Name="BankAccount" Type="varchar" MaxLength="50" />
+    <Property Name="RemoveMoeny" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="RemoveMoenyTime" Type="datetime" />
+    <Property Name="Bank" Type="varchar" MaxLength="15" />
+    <Property Name="BankName" Type="varchar" MaxLength="50" />
+    <Property Name="TransactionTime" Type="datetime" />
+    <Property Name="Remarks" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="HomePagNoBadEvaluate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ASIN" Type="varchar" MaxLength="10" />
+    <Property Name="State" Type="int" />
+    <Property Name="ListingPag" Type="varchar" MaxLength="50" />
+    <Property Name="BuyTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="KeyWordUpHomePag">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ASIN" Type="varchar" MaxLength="10" />
+    <Property Name="State" Type="int" />
+    <Property Name="KeywordImage" Type="varchar" MaxLength="50" />
+    <Property Name="KeyWord" Type="varchar" MaxLength="50" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SubTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="LinkMailboxQuery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ReviewLink" Type="varchar" MaxLength="500" />
+    <Property Name="State" Type="int" />
+    <Property Name="Grade" Type="varchar" MaxLength="5" />
+    <Property Name="Comments" Type="varchar" MaxLength="500" />
+    <Property Name="SellerName" Type="varchar" MaxLength="20" />
+    <Property Name="BuyerName" Type="varchar" MaxLength="20" />
+    <Property Name="BuyerEmail" Type="varchar" MaxLength="30" />
+    <Property Name="SubTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="NavBySubmeun">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ModularId" Type="int" />
+    <Property Name="SubmenuName" Type="varchar" MaxLength="50" />
+    <Property Name="State" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Remark" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="NavigationBar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Path" Type="varchar" MaxLength="50" />
+    <Property Name="Icon" Type="varchar" MaxLength="50" />
+    <Property Name="Pid" Type="int" />
+    <Property Name="NavigationName" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Notice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="50" />
+    <Property Name="Contenting" Type="varchar" MaxLength="500" />
+    <Property Name="AddTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="OrderMailboxQuery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="OrderNumber" Type="varchar" MaxLength="25" />
+    <Property Name="State" Type="int" />
+    <Property Name="ASIN" Type="varchar" MaxLength="10" />
+    <Property Name="ConsigneeName" Type="varchar" MaxLength="30" />
+    <Property Name="BuyerName" Type="varchar" MaxLength="30" />
+    <Property Name="BuyerEmail" Type="varchar" MaxLength="30" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SubTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoleName" Type="varchar" MaxLength="25" />
+    <Property Name="Remarks" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="RoleNavigationBar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NavigationBarId" Type="int" />
+    <Property Name="RoleId" Type="int" />
+  </EntityType>
+  <EntityType Name="ShopCpcReport">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ShopId" Type="varchar" MaxLength="50" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ShopCpcType" Type="varchar" MaxLength="100" />
+    <Property Name="State" Type="int" />
+    <Property Name="Brand" Type="varchar" MaxLength="50" />
+    <Property Name="BuyTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ShopReport">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="ShopId" Type="varchar" MaxLength="50" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ShopType" Type="varchar" MaxLength="100" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="State" Type="int" />
+    <Property Name="ShopEmail" Type="varchar" MaxLength="50" />
+    <Property Name="BuyTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Wishs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ShopId" Type="varchar" MaxLength="100" />
+    <Property Name="Number" Type="int" />
+    <Property Name="Actual" Type="int" />
+    <Property Name="ASIN" Type="varchar" MaxLength="20" />
+    <Property Name="State" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="TotalPrice" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Files" Type="varchar" MaxLength="100" />
+    <Property Name="KeyWord" Type="varchar" MaxLength="500" />
+    <Property Name="Productlocation" Type="varchar" MaxLength="500" />
+    <Property Name="AddTimes" Type="datetime" />
+    <Property Name="Remarks" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityContainer Name="APeripheralServicesModelStoreContainer">
+    <EntitySet Name="AddShopCart" EntityType="Self.AddShopCart" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AroundUser" EntityType="Self.AroundUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AroundUserFinance" EntityType="Self.AroundUserFinance" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AroundUserFinanceLog" EntityType="Self.AroundUserFinanceLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AsinKeyWord" EntityType="Self.AsinKeyWord" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BackUser" EntityType="Self.BackUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BackUserRole" EntityType="Self.BackUserRole" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BadEvaluate" EntityType="Self.BadEvaluate" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BugQuery" EntityType="Self.BugQuery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Different" EntityType="Self.Different" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DrawMoney" EntityType="Self.DrawMoney" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HomePagNoBadEvaluate" EntityType="Self.HomePagNoBadEvaluate" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KeyWordUpHomePag" EntityType="Self.KeyWordUpHomePag" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LinkMailboxQuery" EntityType="Self.LinkMailboxQuery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NavBySubmeun" EntityType="Self.NavBySubmeun" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NavigationBar" EntityType="Self.NavigationBar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Notice" EntityType="Self.Notice" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderMailboxQuery" EntityType="Self.OrderMailboxQuery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RoleNavigationBar" EntityType="Self.RoleNavigationBar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ShopCpcReport" EntityType="Self.ShopCpcReport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ShopReport" EntityType="Self.ShopReport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Wishs" EntityType="Self.Wishs" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="da4bd72a775b463aa7c1430b695d5f6d" Name="Diagram1">
+        <EntityTypeShape EntityType="APeripheralServicesModel.AroundUserFinance" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.AroundUserFinanceLog" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.BackUserRole" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.Country" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.KeyWordUpHomePag" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.LinkMailboxQuery" Width="1.5" PointX="8.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.Notice" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.OrderMailboxQuery" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.Role" Width="1.5" PointX="4.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.RoleNavigationBar" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.BackUser" Width="1.5" PointX="0.75" PointY="12.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.NavigationBar" Width="1.5" PointX="13.375" PointY="3.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.AroundUser" Width="1.5" PointX="3.375" PointY="13.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.DrawMoney" Width="1.5" PointX="13.375" PointY="6.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.BadEvaluate" Width="1.5" PointX="13.375" PointY="10.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.HomePagNoBadEvaluate" Width="1.5" PointX="13.375" PointY="13.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.NavBySubmeun" Width="1.5" PointX="13.375" PointY="0.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.BugQuery" Width="1.5" PointX="5.375" PointY="3.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.AsinKeyWord" Width="1.5" PointX="5.375" PointY="14.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.ShopReport" Width="1.5" PointX="7.375" PointY="14.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.ShopCpcReport" Width="1.5" PointX="7.375" PointY="8.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.AddShopCart" Width="1.5" PointX="9.375" PointY="10.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.Wishs" Width="1.5" PointX="15.375" PointY="0.75" />
+        <EntityTypeShape EntityType="APeripheralServicesModel.Different" Width="1.5" PointX="15.375" PointY="5.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

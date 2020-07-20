@@ -1,0 +1,499 @@
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\AssistantApi.dll.config
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\AssistantApi.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\AssistantApi.pdb
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\csc.exe
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\csc.exe.config
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\csc.rsp
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\csi.exe
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\csi.exe.config
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\csi.rsp
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.AppContext.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Collections.Immutable.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Console.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.IO.Compression.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.IO.FileSystem.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.IO.Pipes.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.AccessControl.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.Claims.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.ValueTuple.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Xml.XPath.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\vbc.exe
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\vbc.exe.config
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\vbc.rsp
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\VBCSCompiler.exe
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\roslyn\VBCSCompiler.exe.config
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Win32.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\netstandard.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.AppContext.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Collections.Concurrent.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Collections.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Collections.NonGeneric.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Collections.Specialized.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ComponentModel.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ComponentModel.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ComponentModel.TypeConverter.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Console.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Data.Common.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.Contracts.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.Debug.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.Process.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.StackTrace.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.Tools.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.TraceSource.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Diagnostics.Tracing.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Drawing.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Dynamic.Runtime.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Globalization.Calendars.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Globalization.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Globalization.Extensions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.Compression.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.Compression.ZipFile.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.FileSystem.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.FileSystem.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.FileSystem.Watcher.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.IsolatedStorage.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.MemoryMappedFiles.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.Pipes.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Linq.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Linq.Expressions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Linq.Parallel.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Linq.Queryable.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Http.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.NameResolution.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.NetworkInformation.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Ping.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Requests.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Security.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Sockets.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.WebHeaderCollection.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.WebSockets.Client.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.WebSockets.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ObjectModel.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Reflection.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Reflection.Extensions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Reflection.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Resources.Reader.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Resources.ResourceManager.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Resources.Writer.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Extensions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Handles.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.InteropServices.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Numerics.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Serialization.Json.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.Serialization.Xml.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Claims.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Cryptography.Csp.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Cryptography.Encoding.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Cryptography.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Principal.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.SecureString.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Text.Encoding.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Text.Encoding.Extensions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Text.RegularExpressions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.Overlapped.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.Tasks.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.Tasks.Parallel.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.Thread.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.ThreadPool.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Threading.Timer.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ValueTuple.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Xml.ReaderWriter.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Xml.XDocument.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Xml.XmlDocument.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Xml.XmlSerializer.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Xml.XPath.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Xml.XPath.XDocument.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\aliyun-net-sdk-core.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\aliyun-net-sdk-dysmsapi.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Antlr3.Runtime.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntitiesModel.exe
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntityFramework.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntityFramework.SqlServer.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Session.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Options.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Primitives.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Web.Infrastructure.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Win32.Registry.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Newtonsoft.Json.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Buffers.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.ComponentModel.Annotations.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Memory.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Http.Formatting.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Numerics.Vectors.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.AccessControl.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Cryptography.Xml.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Permissions.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Security.Principal.Windows.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Text.Encodings.Web.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Helpers.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Http.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Http.WebHost.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Mvc.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Optimization.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Razor.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.WebPages.Deployment.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.WebPages.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.WebPages.Razor.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\WebGrease.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntitiesModel.pdb
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntitiesModel.exe.config
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntityFramework.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\EntityFramework.SqlServer.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.AspNetCore.Session.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Options.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.Extensions.Primitives.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Buffers.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Memory.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Numerics.Vectors.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Text.Encodings.Web.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Newtonsoft.Json.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Net.Http.Formatting.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Helpers.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Http.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Http.WebHost.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Mvc.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Optimization.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.Razor.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.WebPages.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.WebPages.Deployment.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\System.Web.WebPages.Razor.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Antlr3.Runtime.pdb
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\EntityFramework.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.Http.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\obj\Debug\AssistantApi.csprojAssemblyReference.cache
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\obj\Debug\AssistantApi.csproj.CoreCompileInputs.cache
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\obj\Debug\AssistantApi.csproj.CopyComplete
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\obj\Debug\AssistantApi.dll
+D:\触动力线上项目\周边服务\back\HelperService\AssistantApi\obj\Debug\AssistantApi.pdb
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\AssistantApi.dll.config
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\AssistantApi.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\AssistantApi.pdb
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\csc.exe
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\csc.exe.config
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\csc.rsp
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\csi.exe
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\csi.exe.config
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\csi.rsp
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.AppContext.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Collections.Immutable.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Console.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.IO.Compression.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.IO.FileSystem.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.IO.Pipes.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.AccessControl.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.Claims.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.ValueTuple.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Xml.XPath.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\vbc.exe
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\vbc.exe.config
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\vbc.rsp
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\VBCSCompiler.exe
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\roslyn\VBCSCompiler.exe.config
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Win32.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\netstandard.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.AppContext.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Collections.Concurrent.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Collections.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Collections.NonGeneric.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Collections.Specialized.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ComponentModel.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ComponentModel.EventBasedAsync.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ComponentModel.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ComponentModel.TypeConverter.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Console.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Data.Common.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.Contracts.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.Debug.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.FileVersionInfo.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.Process.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.StackTrace.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.Tools.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.TraceSource.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Diagnostics.Tracing.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Drawing.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Dynamic.Runtime.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Globalization.Calendars.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Globalization.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Globalization.Extensions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.Compression.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.Compression.ZipFile.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.FileSystem.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.FileSystem.DriveInfo.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.FileSystem.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.FileSystem.Watcher.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.IsolatedStorage.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.MemoryMappedFiles.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.Pipes.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.IO.UnmanagedMemoryStream.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Linq.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Linq.Expressions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Linq.Parallel.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Linq.Queryable.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Http.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.NameResolution.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.NetworkInformation.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Ping.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Requests.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Security.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Sockets.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.WebHeaderCollection.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.WebSockets.Client.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.WebSockets.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ObjectModel.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Reflection.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Reflection.Extensions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Reflection.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Resources.Reader.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Resources.ResourceManager.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Resources.Writer.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Extensions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Handles.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.InteropServices.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Numerics.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Serialization.Formatters.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Serialization.Json.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Serialization.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.Serialization.Xml.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Claims.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Cryptography.Csp.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Cryptography.Encoding.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Cryptography.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Principal.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.SecureString.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Text.Encoding.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Text.Encoding.Extensions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Text.RegularExpressions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.Overlapped.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.Tasks.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.Tasks.Parallel.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.Thread.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.ThreadPool.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Threading.Timer.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ValueTuple.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Xml.ReaderWriter.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Xml.XDocument.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Xml.XmlDocument.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Xml.XmlSerializer.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Xml.XPath.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Xml.XPath.XDocument.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\aliyun-net-sdk-core.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\aliyun-net-sdk-dysmsapi.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Antlr3.Runtime.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntitiesModel.exe
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntityFramework.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntityFramework.SqlServer.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\ICSharpCode.SharpZipLib.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Session.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Options.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Primitives.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Web.Infrastructure.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Win32.Registry.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Newtonsoft.Json.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\NPOI.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\NPOI.OOXML.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\NPOI.OpenXml4Net.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\NPOI.OpenXmlFormats.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Buffers.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.ComponentModel.Annotations.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Memory.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Http.Formatting.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Numerics.Vectors.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.AccessControl.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Cryptography.Xml.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Permissions.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Security.Principal.Windows.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Text.Encodings.Web.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Helpers.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Http.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Http.WebHost.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Mvc.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Optimization.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Razor.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.WebPages.Deployment.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.WebPages.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.WebPages.Razor.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\WebGrease.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntitiesModel.pdb
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntitiesModel.exe.config
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntityFramework.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\EntityFramework.SqlServer.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.AspNetCore.Session.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Options.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.Extensions.Primitives.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Buffers.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Memory.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Numerics.Vectors.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Text.Encodings.Web.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Newtonsoft.Json.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Net.Http.Formatting.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Helpers.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Http.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Http.WebHost.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Mvc.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Optimization.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.Razor.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.WebPages.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.WebPages.Deployment.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\System.Web.WebPages.Razor.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Antlr3.Runtime.pdb
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\EntityFramework.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.Http.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\obj\Debug\AssistantApi.csprojAssemblyReference.cache
+D:\新建文件夹 (2)\zhoubian\AssistantApi\obj\Debug\AssistantApi.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (2)\zhoubian\AssistantApi\obj\Debug\AssistantApi.csproj.CopyComplete
+D:\新建文件夹 (2)\zhoubian\AssistantApi\obj\Debug\AssistantApi.dll
+D:\新建文件夹 (2)\zhoubian\AssistantApi\obj\Debug\AssistantApi.pdb
