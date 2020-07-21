@@ -26,3 +26,15 @@ D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.csproj.Cor
 D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.csproj.CopyComplete
 D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.exe
 D:\新建文件夹 (2)\zhoubian\EntitiesModel\obj\Debug\EntitiesModel.pdb
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntitiesModel.exe.config
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntitiesModel.exe
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntitiesModel.pdb
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntityFramework.dll
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntityFramework.xml
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\obj\Debug\EntitiesModel.csproj.CopyComplete
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\obj\Debug\EntitiesModel.exe
+D:\触动力线上项目\周边服务\back\周边服务\EntitiesModel\obj\Debug\EntitiesModel.pdb

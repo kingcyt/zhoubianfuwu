@@ -161,6 +161,25 @@
           <Property Name="TransactionTime" Type="datetime" />
           <Property Name="Remarks" Type="varchar" MaxLength="50" />
         </EntityType>
+        <EntityType Name="Evaluate">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserId" Type="int" />
+          <Property Name="CountryId" Type="int" />
+          <Property Name="ShopId" Type="varchar" MaxLength="100" />
+          <Property Name="Title" Type="varchar" MaxLength="100" />
+          <Property Name="Message" Type="varchar" MaxLength="500" />
+          <Property Name="ASIN" Type="varchar" MaxLength="20" />
+          <Property Name="State" Type="int" />
+          <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="KeyWord" Type="varchar" MaxLength="500" />
+          <Property Name="Productlocation" Type="varchar" MaxLength="500" />
+          <Property Name="Images" Type="varchar" MaxLength="100" />
+          <Property Name="AddTimes" Type="datetime" />
+          <Property Name="Remarks" Type="varchar" MaxLength="500" />
+        </EntityType>
         <EntityType Name="HomePagNoBadEvaluate">
           <Key>
             <PropertyRef Name="Id" />
@@ -328,6 +347,7 @@
           <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Different" EntityType="Self.Different" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="DrawMoney" EntityType="Self.DrawMoney" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Evaluate" EntityType="Self.Evaluate" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="HomePagNoBadEvaluate" EntityType="Self.HomePagNoBadEvaluate" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="KeyWordUpHomePag" EntityType="Self.KeyWordUpHomePag" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="LinkMailboxQuery" EntityType="Self.LinkMailboxQuery" Schema="dbo" store:Type="Tables" />
@@ -483,6 +503,7 @@
           <EntitySet Name="AddShopCart" EntityType="APeripheralServicesModel.AddShopCart" />
           <EntitySet Name="Wishs" EntityType="APeripheralServicesModel.Wishs" />
           <EntitySet Name="Different" EntityType="APeripheralServicesModel.Different" />
+          <EntitySet Name="Evaluate" EntityType="APeripheralServicesModel.Evaluate" />
         </EntityContainer>
         <EntityType Name="BackUser">
           <Key>
@@ -680,6 +701,25 @@
           <Property Name="ActualNumber" Type="Int32" />
           <Property Name="BackNumber" Type="Int32" />
           <Property Name="AddTimes" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Evaluate">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserId" Type="Int32" />
+          <Property Name="CountryId" Type="Int32" />
+          <Property Name="ShopId" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Message" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="ASIN" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="State" Type="Int32" />
+          <Property Name="Price" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="KeyWord" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="Productlocation" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="Images" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="AddTimes" Type="DateTime" Precision="3" />
+          <Property Name="Remarks" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -1016,6 +1056,26 @@
                 <ScalarProperty Name="Price" ColumnName="Price" />
                 <ScalarProperty Name="State" ColumnName="State" />
                 <ScalarProperty Name="Type" ColumnName="Type" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Evaluate">
+            <EntityTypeMapping TypeName="APeripheralServicesModel.Evaluate">
+              <MappingFragment StoreEntitySet="Evaluate">
+                <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+                <ScalarProperty Name="AddTimes" ColumnName="AddTimes" />
+                <ScalarProperty Name="Images" ColumnName="Images" />
+                <ScalarProperty Name="Productlocation" ColumnName="Productlocation" />
+                <ScalarProperty Name="KeyWord" ColumnName="KeyWord" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+                <ScalarProperty Name="State" ColumnName="State" />
+                <ScalarProperty Name="ASIN" ColumnName="ASIN" />
+                <ScalarProperty Name="Message" ColumnName="Message" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+                <ScalarProperty Name="CountryId" ColumnName="CountryId" />
                 <ScalarProperty Name="UserId" ColumnName="UserId" />
                 <ScalarProperty Name="Id" ColumnName="Id" />
               </MappingFragment>

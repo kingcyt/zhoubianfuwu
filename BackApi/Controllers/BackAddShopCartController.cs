@@ -24,7 +24,7 @@ namespace BackApi.Controllers
 		/// <summary>
 		/// time:2020-7-16
 		/// message:加购列表
-		/// author:Thomars  
+		/// author:Thomars   
 		/// </summary>
 		/// <param name="pageNum"></param>
 		/// <param name="pagesize"></param>

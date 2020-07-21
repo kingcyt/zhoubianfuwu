@@ -282,6 +282,7 @@
     <Compile Include="Controllers\CountryController.cs" />
     <Compile Include="Controllers\DifferentController.cs" />
     <Compile Include="Controllers\DrawMoneyController.cs" />
+    <Compile Include="Controllers\EvaluateController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HomePagNoBadEvaluateController.cs" />
     <Compile Include="Controllers\KeyWordUpHomePagController.cs" />
@@ -299,6 +300,7 @@
     </Compile>
     <Compile Include="MessageOut\Respone.cs" />
     <Compile Include="Models\DrawMoneyModel.cs" />
+    <Compile Include="Models\EvaluateModel.cs" />
     <Compile Include="Models\ExcelLinkMailboxQueryModel.cs" />
     <Compile Include="Models\ExcelOrderMailboxQueryModel.cs" />
     <Compile Include="Models\FinanceLogModel.cs" />
@@ -392,7 +394,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EntitiesModel\EntitiesModel.csproj">
-      <Project>{93613140-D317-4B87-A60E-7091D700BB72}</Project>
+      <Project>{93613140-d317-4b87-a60e-7091d700bb72}</Project>
       <Name>EntitiesModel</Name>
     </ProjectReference>
   </ItemGroup>

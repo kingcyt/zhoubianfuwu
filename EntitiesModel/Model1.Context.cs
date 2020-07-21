@@ -49,5 +49,6 @@ namespace EntitiesModel
         public virtual DbSet<AddShopCart> AddShopCart { get; set; }
         public virtual DbSet<Wishs> Wishs { get; set; }
         public virtual DbSet<Different> Different { get; set; }
+        public virtual DbSet<Evaluate> Evaluate { get; set; }
     }
 }

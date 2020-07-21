@@ -87,7 +87,7 @@ namespace BackApi.Controllers
 		{
 			int rownum = pagesize * (pageNum - 1);
 			string where = "";
-			string sql = "select l.*,a.CustomerNumber,a.Name,a.Phone,c.CountryName from [dbo].[Different] AS l left join[dbo].[AroundUser] AS a on l.UserId=a.Id  where Type= " + Type + " and 1=1 ";
+			string sql = "select l.*,a.CustomerNumber,a.Name,a.Phone from [dbo].[Different] AS l left join[dbo].[AroundUser] AS a on l.UserId=a.Id  where Type= " + Type + " and 1=1 ";
 			if (string.IsNullOrWhiteSpace(Statetime) == false)
 			{
 				where += "  and l.AddTimes >='" + Statetime + "' and l.AddTimes<= '" + Endtime + "'";
@@ -127,7 +127,7 @@ namespace BackApi.Controllers
 					model.Type = (int)dr["Type"];
 					model.EstimateNumber = (int)dr["EstimateNumber"];
 					model.ActualNumber = (int)dr["ActualNumber"];
-					model.BackNumber = (int)dr["BackNumber"];
+					model.BackNumber = dr["BackNumber"].ToString();
 					list.Add(model);
 				}
 				return list;
@@ -210,6 +210,9 @@ namespace BackApi.Controllers
 				decimal total = 0;
 				int id = (int)value["Id"];
 				int number = (int)value["Number"];
+				int type = (int)value["Type"];
+				int DifferentState = 0;
+				string remarks = "";
 				var query = entities.Different.Where(e => e.Id == id).FirstOrDefault();
 				if (query != null)
 				{
@@ -231,15 +234,25 @@ namespace BackApi.Controllers
 
 						//日志
 						TimeSpan ts = DateTime.Now - new DateTime(1970, 1, 1, 0, 0, 0, 0);
+						if (type == 1)
+						{
+							DifferentState = 23;
+							remarks = " 点赞总额支出";
+						}
+						else
+						{
+							DifferentState = 24;
+							remarks = " 点踩总额支出";
+						}
 						AroundUserFinanceLog log = new AroundUserFinanceLog
 						{
 							BusinessNumber = Convert.ToInt64(ts.TotalMilliseconds).ToString(),
 							UserId = query.UserId,
-							PaymentState = 23,
+							PaymentState = DifferentState,
 							TransactionType = 1,  //1扣款,2:充值,3退款
 							TransactionTime = DateTime.Now,
 							TransactionAmount = query.TotalPrice,
-							Remarks = "任务：" + query.Id + " 点赞点踩总额支出"
+							Remarks = "任务：" + query.Id + remarks
 
 						};
 						entities.AroundUserFinanceLog.Add(log);
@@ -249,7 +262,7 @@ namespace BackApi.Controllers
 				}
 				if (result > 0)
 				{
-					return Ok(Respone.Success("心愿单任务已完成"));
+					return Ok(Respone.Success("任务已完成"));
 				}
 				else
 				{

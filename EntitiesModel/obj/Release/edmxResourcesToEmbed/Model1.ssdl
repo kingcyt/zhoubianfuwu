@@ -156,6 +156,25 @@
     <Property Name="TransactionTime" Type="datetime" />
     <Property Name="Remarks" Type="varchar" MaxLength="50" />
   </EntityType>
+  <EntityType Name="Evaluate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="ShopId" Type="varchar" MaxLength="100" />
+    <Property Name="Title" Type="varchar" MaxLength="100" />
+    <Property Name="Message" Type="varchar" MaxLength="500" />
+    <Property Name="ASIN" Type="varchar" MaxLength="20" />
+    <Property Name="State" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="KeyWord" Type="varchar" MaxLength="500" />
+    <Property Name="Productlocation" Type="varchar" MaxLength="500" />
+    <Property Name="Images" Type="varchar" MaxLength="100" />
+    <Property Name="AddTimes" Type="datetime" />
+    <Property Name="Remarks" Type="varchar" MaxLength="500" />
+  </EntityType>
   <EntityType Name="HomePagNoBadEvaluate">
     <Key>
       <PropertyRef Name="Id" />
@@ -323,6 +342,7 @@
     <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Different" EntityType="Self.Different" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="DrawMoney" EntityType="Self.DrawMoney" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Evaluate" EntityType="Self.Evaluate" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="HomePagNoBadEvaluate" EntityType="Self.HomePagNoBadEvaluate" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="KeyWordUpHomePag" EntityType="Self.KeyWordUpHomePag" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="LinkMailboxQuery" EntityType="Self.LinkMailboxQuery" Schema="dbo" store:Type="Tables" />

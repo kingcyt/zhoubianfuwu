@@ -6,7 +6,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\新建文件夹 (2)\zhoubian\BackApi\bin\Release\Publish</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\触动力线上项目\周边服务\back\周边服务\BackApi\bin\Release\Publish</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
@@ -85,28 +85,28 @@
       <publishTime>07/17/2020 10:47:57</publishTime>
     </File>
     <File Include="bin/AssistantApi.dll">
-      <publishTime>07/20/2020 14:50:38</publishTime>
+      <publishTime>07/21/2020 14:31:00</publishTime>
     </File>
     <File Include="bin/AssistantApi.dll.config">
       <publishTime>07/17/2020 11:11:26</publishTime>
     </File>
     <File Include="bin/AssistantApi.pdb">
-      <publishTime>07/20/2020 14:50:38</publishTime>
+      <publishTime>07/21/2020 14:31:00</publishTime>
     </File>
     <File Include="bin/BackApi.dll">
-      <publishTime>07/20/2020 14:50:39</publishTime>
+      <publishTime>07/21/2020 14:31:03</publishTime>
     </File>
     <File Include="bin/BackApi.pdb">
-      <publishTime>07/20/2020 14:50:39</publishTime>
+      <publishTime>07/21/2020 14:31:03</publishTime>
     </File>
     <File Include="bin/EntitiesModel.exe">
-      <publishTime>07/20/2020 14:50:37</publishTime>
+      <publishTime>07/21/2020 14:30:58</publishTime>
     </File>
     <File Include="bin/EntitiesModel.exe.config">
       <publishTime>07/17/2020 10:47:55</publishTime>
     </File>
     <File Include="bin/EntitiesModel.pdb">
-      <publishTime>07/20/2020 14:50:37</publishTime>
+      <publishTime>07/21/2020 14:30:58</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>01/19/2019 16:32:53</publishTime>
@@ -436,7 +436,7 @@
       <publishTime>07/17/2020 10:47:54</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/17/2020 16:04:16</publishTime>
+      <publishTime>07/20/2020 16:04:00</publishTime>
     </File>
   </ItemGroup>
 </Project>

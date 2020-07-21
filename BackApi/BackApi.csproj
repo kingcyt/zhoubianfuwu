@@ -184,6 +184,7 @@
     <Compile Include="Controllers\BackBadEvaluateController.cs" />
     <Compile Include="Controllers\BackBugQueryController.cs" />
     <Compile Include="Controllers\BackDifferentController.cs" />
+    <Compile Include="Controllers\BackEvaluateController.cs" />
     <Compile Include="Controllers\BackKeyWordUpPagController.cs" />
     <Compile Include="Controllers\BackLinkMailboxQueryController.cs" />
     <Compile Include="Controllers\BackNavBySubmeunController.cs" />
@@ -216,6 +217,7 @@
     <Compile Include="Models\UserByBadEvaluateModel.cs" />
     <Compile Include="Models\UserByBugQueryModel.cs" />
     <Compile Include="Models\UserByDifferentModel.cs" />
+    <Compile Include="Models\UserByEvaluateModel.cs" />
     <Compile Include="Models\UserByLinkMailboxQueryModel.cs" />
     <Compile Include="Models\UserByOrderMailboxQueryModel.cs" />
     <Compile Include="Models\UserByShopCpcReportModel.cs" />

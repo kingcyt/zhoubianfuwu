@@ -138,6 +138,7 @@
     <EntitySet Name="AddShopCart" EntityType="APeripheralServicesModel.AddShopCart" />
     <EntitySet Name="Wishs" EntityType="APeripheralServicesModel.Wishs" />
     <EntitySet Name="Different" EntityType="APeripheralServicesModel.Different" />
+    <EntitySet Name="Evaluate" EntityType="APeripheralServicesModel.Evaluate" />
   </EntityContainer>
   <EntityType Name="BackUser">
     <Key>
@@ -335,5 +336,24 @@
     <Property Name="ActualNumber" Type="Int32" />
     <Property Name="BackNumber" Type="Int32" />
     <Property Name="AddTimes" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Evaluate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="CountryId" Type="Int32" />
+    <Property Name="ShopId" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Message" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="ASIN" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="State" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="KeyWord" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Productlocation" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Images" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AddTimes" Type="DateTime" Precision="3" />
+    <Property Name="Remarks" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
   </EntityType>
 </Schema>

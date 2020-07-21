@@ -19,6 +19,6 @@ namespace BackApi.Models
 		public string Link { get; set; }
 		public int EstimateNumber { get; set; }
 		public int ActualNumber { get; set; }
-		public int BackNumber { get; set; }
+		public string BackNumber { get; set; }
 	}
 }

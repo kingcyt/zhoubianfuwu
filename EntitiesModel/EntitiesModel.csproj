@@ -88,6 +88,9 @@
     <Compile Include="DrawMoney.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Evaluate.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
     <Compile Include="HomePagNoBadEvaluate.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
