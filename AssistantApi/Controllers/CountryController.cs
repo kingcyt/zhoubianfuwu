@@ -23,7 +23,7 @@ namespace AssistantApi.Controllers
 		[Route("api/Country/GetCountryList"), HttpGet]
 		public HttpResponseMessage GetCountryList()
 		{
-			var query = entities.Country.ToList();
+			var query = entities.Country.Where(e=>e.State!=0).ToList();
 			var json = JsonConvert.SerializeObject(query);
 			return new HttpResponseMessage { Content = new StringContent(json, System.Text.Encoding.UTF8, "application/json") };
 		}

@@ -28,5 +28,6 @@ namespace BackApi.Models
 	public class EvaluateTaskModel
 	{
 		public int[] Id { get; set; }
+		public int State { get; set; }
 	}
 }

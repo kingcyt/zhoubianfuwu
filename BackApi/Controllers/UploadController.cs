@@ -39,7 +39,7 @@ namespace BackApi.Controllers
 
 					string timeStamp = DateTime.Now.Ticks.ToString(); // 获取当前时间的string类型
 					string firstFileName = timeStamp.Substring(0, timeStamp.Length - 4); // 通过截取获得文件名
-					string imageStr = "Images/AddServiceImage/"; // 获取保存图片的项目文件夹
+					string imageStr = "/Images/AddServiceImage/"; // 获取保存图片的项目文件夹
 					string uploadPath = HttpContext.Current.Server.MapPath("~/" + imageStr); // 将项目路径与文件夹合并
 					string pictureFormat = file.Split('.')[file.Split('.').Length - 1];// 设置文件格式
 					string fileName = firstFileName + "." + fileFormat;// 设置完整（文件名+文件格式） 

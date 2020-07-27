@@ -214,40 +214,58 @@ namespace BackApi.Controllers
 				int result = 0;
 				using (TransactionScope scope = new TransactionScope())
 				{
-					foreach (var item in task.Id)
+					if (task.State == 0)
 					{
-
-						var query = entities.Evaluate.Where(e => e.Id == item).FirstOrDefault();
-						if (query != null)
+						foreach (var item in task.Id)
 						{
-							query.State = 3;
-							DbEntityEntry entry = entities.Entry(query);
-							entry.State = System.Data.Entity.EntityState.Modified;
-
-							//账户扣款
-							var customerFinance = entities.AroundUserFinance.Where(t => t.UserId == query.UserId).FirstOrDefault();
-							customerFinance.AccountBalance = customerFinance.AccountBalance - query.Price;
-							customerFinance.AccumulatedExpenditure = customerFinance.AccumulatedExpenditure + query.Price;
-							DbEntityEntry entryc = entities.Entry(customerFinance);
-							entryc.State = System.Data.Entity.EntityState.Modified;
-
-							//日志
-							TimeSpan ts = DateTime.Now - new DateTime(1970, 1, 1, 0, 0, 0, 0);
-							AroundUserFinanceLog log = new AroundUserFinanceLog
+							var query = entities.Evaluate.Where(e => e.Id == item).FirstOrDefault();
+							if (query != null)
 							{
-								BusinessNumber = Convert.ToInt64(ts.TotalMilliseconds).ToString(),
-								UserId = query.UserId,
-								PaymentState = 25,
-								TransactionType = 1,  //1扣款,2:充值,3退款
-								TransactionTime = DateTime.Now,
-								TransactionAmount = query.Price,
-								Remarks = "任务：" + query.Id + " 上评总额支出"
-							};
-							entities.AroundUserFinanceLog.Add(log);
+								query.State = 4;
+								DbEntityEntry entry = entities.Entry(query);
+								entry.State = System.Data.Entity.EntityState.Modified;
+							}
 						}
+						result = entities.SaveChanges();
+						scope.Complete();
 					}
-					 result= entities.SaveChanges();
-					scope.Complete();
+					else
+					{
+						foreach (var item in task.Id)
+						{
+
+							var query = entities.Evaluate.Where(e => e.Id == item).FirstOrDefault();
+							if (query != null)
+							{
+								query.State = 3;
+								DbEntityEntry entry = entities.Entry(query);
+								entry.State = System.Data.Entity.EntityState.Modified;
+
+								//账户扣款
+								var customerFinance = entities.AroundUserFinance.Where(t => t.UserId == query.UserId).FirstOrDefault();
+								customerFinance.AccountBalance = customerFinance.AccountBalance - query.Price;
+								customerFinance.AccumulatedExpenditure = customerFinance.AccumulatedExpenditure + query.Price;
+								DbEntityEntry entryc = entities.Entry(customerFinance);
+								entryc.State = System.Data.Entity.EntityState.Modified;
+
+								//日志
+								TimeSpan ts = DateTime.Now - new DateTime(1970, 1, 1, 0, 0, 0, 0);
+								AroundUserFinanceLog log = new AroundUserFinanceLog
+								{
+									BusinessNumber = Convert.ToInt64(ts.TotalMilliseconds).ToString(),
+									UserId = query.UserId,
+									PaymentState = 25,
+									TransactionType = 1,  //1扣款,2:充值,3退款
+									TransactionTime = DateTime.Now,
+									TransactionAmount = query.Price,
+									Remarks = "任务：" + query.Id + " 上评总额支出"
+								};
+								entities.AroundUserFinanceLog.Add(log);
+							}
+						}
+						result = entities.SaveChanges();
+						scope.Complete();
+					}
 				}
 				if (result > 0)
 				{
